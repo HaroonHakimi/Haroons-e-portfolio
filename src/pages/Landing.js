@@ -6,7 +6,7 @@ import { OrbitControls, Text } from "@react-three/drei";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as THREE from "three";
-import resume from "../assets/resume/Resume.jpg"
+import MyResume from "../assets/resume/Resume.pdf"
 
 const about = [
   "HTML",
@@ -118,7 +118,7 @@ export default function Landing() {
           <a target="_blank" rel="no-refferer" href="https://www.linkedin.com/in/haroon-hakimi-2779bb266/">
             <img src={linkedinIcon} alt="linkedinIcon" />
           </a>
-          <a target="_blank" rel="no-refferer" href={resume}>
+          <a target="_blank" rel="no-refferer" href={MyResume}>
             <img src={resumeIcon} alt="resumeIcon" />
           </a>
         </div>

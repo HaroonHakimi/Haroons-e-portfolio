@@ -8,7 +8,7 @@ import { technicalSkillsConfig } from "../config/resume/technicalSkillsConfig";
 import { transferrableSkillsConfig } from "../config/resume/transferrableSkillsConfig";
 import { AnimatedHeader } from "../components/AnimateHeader";
 import MyImage from "../assets/resume/Me.jpg"
-import MyResume from "../assets/resume/Resume.jpg"
+import MyResume from "../assets/resume/Resume.pdf"
 
 const Resume = () => {
   return (

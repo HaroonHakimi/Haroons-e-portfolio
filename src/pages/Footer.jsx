@@ -1,7 +1,7 @@
 import React from "react";
 import FooterLogo from "../assets/footer-logo.svg";
 import { MdOutlineArrowUpward } from "react-icons/md";
-import resume from "../assets/resume/Resume.jpg"
+import MyResume from "../assets/resume/Resume.pdf"
 
 const Footer = () => {
   return (
@@ -23,7 +23,7 @@ const Footer = () => {
           <a target="_blank" href="mailto:haroonhakimi2005@gmail.com">Email</a>
         </div>
         <div>
-          <a target="_blank" href={resume}>Resume</a>
+          <a target="_blank" href={MyResume}>Resume</a>
         </div>
       </div>
       <div>Copyright &copy; 2022 David Bragg</div>
