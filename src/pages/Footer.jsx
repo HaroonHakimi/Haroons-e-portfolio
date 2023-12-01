@@ -1,5 +1,5 @@
 import React from "react";
-import FooterLogo from "../assets/footer-logo.svg";
+import FooterLogo from "../assets/footerLogo.png";
 import { MdOutlineArrowUpward } from "react-icons/md";
 import MyResume from "../assets/resume/Resume.pdf"
 
@@ -26,7 +26,7 @@ const Footer = () => {
           <a target="_blank" href={MyResume}>Resume</a>
         </div>
       </div>
-      <div>Copyright &copy; 2022 David Bragg</div>
+      <div>Copyright &copy; 2023 Haroon Hakimi</div>
     </div>
   );
 };
