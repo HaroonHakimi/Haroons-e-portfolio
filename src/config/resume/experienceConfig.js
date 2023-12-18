@@ -1,6 +1,6 @@
 export const experienceConfig = [
   {
-    name: "Frontend Simplified Internship",
+    name: "FrontEdge Designs",
     title: "Frontend Developer",
     description: [
       "Leveraged Javascript, Typescript, and Tailwind CSS to implement dynamic route changes, resulting in a 30% increase in user engagement and a 20% reduction in bounce rate.",
@@ -10,8 +10,8 @@ export const experienceConfig = [
     date: "July 2023 - Present",
   },
   {
-    name: "Frontend Simplified Internship",
-    title: "Frontend Developer",
+    name: "Frontend Developer ",
+    title: "Frontend Developer Internship",
     description: [
       "Transformed a completely static HTML, CSS, Javascript and React single page application into an interactive user interface using animations, transitions and carousels",
       "Led the implementation of Axios to facilitate API request execution, data retrieval, and display from a cloud server. Enhanced user experience through the implementation of skeleton loading states, pagination, and routing, leading to a significant 40% increase in page loading speed and a 20% decrease in bounce rate.",
