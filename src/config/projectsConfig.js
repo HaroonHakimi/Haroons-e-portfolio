@@ -36,7 +36,7 @@ const projectsConfig = [
     title: "NFT Marketplace",
     type: "Web App",
     description:
-      "I meticulously developed leveraging React's robust architecture. One of the key strengths lies in its optimized loading states, ensuring ultra-fast responses even during high-traffic periods. To enhance the user experience, I've implemented fluid animations that offer visual feedback and enrich the browsing experience. Underneath its sleek interface, the app harnesses the power of React's component-based structure, making it highly modular and extensible.",
+      "Developed using React. One of the key strengths lies in its optimized loading states, ensuring ultra-fast responses even during high-traffic periods. To enhance the user experience, I've implemented fluid animations that offer visual feedback and enrich the browsing experience. Underneath its sleek interface, the app harnesses the power of React's component-based structure, making it highly modular and extensible.",
     liveLink: "https://haroon-internship.vercel.app/",
     githubLink: "https://github.com/HaroonHakimi/haroon-internship",
     coverImage: NftCoverImage,
@@ -50,7 +50,7 @@ const projectsConfig = [
     type: "Web App",
     description:
       "Dynamic and feature-rich full stack project that demonstrates my proficiency in web development. Using technologies such as JavaScript, Next.js, Redux, and Tailwind CSS for the frontend, I crafted an engaging online library where users can seamlessly read and listen to a diverse collection of books. I implemented efficient data retrieval through API calls, optimizing the user experience with lazy loading functionality. The integration of Firebase allows for users to create accounts, with the ability to login, logout and update their subscription. Additionally, I incorporated a subscription platform powered by Stripe through Firebase, offering users the choice to upgrade to monthly or yearly plans. This subscription unlocks premium content within the library, enhancing the project's value and user engagement.",
-    liveLink: "https://summarist-ashen.vercel.app/",
+    liveLink: "https://summarist.vercel.app/",
     githubLink: "https://github.com/HaroonHakimi/summarist",
     coverImage: SummaristMain,
     topImage: SummaristFrontImage,
@@ -58,19 +58,19 @@ const projectsConfig = [
     secondImage: SummaristSecondImage,
     // thirdImage: NftThirdImage,
   },
-  {
-    title: "Movie Search Engine",
-    type: "Web App",
-    description:
-      "Using React, I created an engaging and dynamic movie-search website. The core functionality of the website revolves around a user-friendly interface that enables visitors to seamlessly search for movies. To enhance the user experience, I incorporated a lazy loading mechanism, ensuring optimal performance by loading movie data efficiently. By utilizing a third-party API as a data source, I facilitated real-time movie information retrieval, allowing users to access comprehensive details about their selected movies.",
-    liveLink: "https://react-final-project-m610y5ilx-haroonhakimi.vercel.app/",
-    githubLink: "https://github.com/HaroonHakimi/react-final-project",
-    coverImage: MovieCoverImage,
-    topImage: MovieFrontImage,
-    firstImage: MovieFirstImage,
-    secondImage: MovieSecondImage,
-    // thirdImage: NftThirdImage,
-  },
+  // {
+  //   title: "Movie Search Engine",
+  //   type: "Web App",
+  //   description:
+  //     "Using React, I created an engaging and dynamic movie-search website. The core functionality of the website revolves around a user-friendly interface that enables visitors to seamlessly search for movies. To enhance the user experience, I incorporated a lazy loading mechanism, ensuring optimal performance by loading movie data efficiently. By utilizing a third-party API as a data source, I facilitated real-time movie information retrieval, allowing users to access comprehensive details about their selected movies.",
+  //   liveLink: "https://react-final-project-m610y5ilx-haroonhakimi.vercel.app/",
+  //   githubLink: "https://github.com/HaroonHakimi/react-final-project",
+  //   coverImage: MovieCoverImage,
+  //   topImage: MovieFrontImage,
+  //   firstImage: MovieFirstImage,
+  //   secondImage: MovieSecondImage,
+  //   // thirdImage: NftThirdImage,
+  // },
   {
     title: "Twitter Clone",
     type: "Web App",
@@ -84,32 +84,32 @@ const projectsConfig = [
     // secondImage: NftSecondImage,
     // thirdImage: NftThirdImage,
   },
-  {
-    title: "Treact",
-    type: "Web App",
-    description:
-      "Building & Construction needed a better faster, less labor intensive way of providing advice to people on site. Feel created a choose your own adventure style scenario based app which allows people to quickly navigate through real life scenarios in order to get workplace rights and responsibilities advice on a number of topics, instantly.",
-    liveLink: "https://haroonhakimi.github.io/Week-2-Final-Project/",
-    githubLink: "https://github.com/HaroonHakimi/Week-2-Final-Project",
-    coverImage: TreactCoverImage,
-    topImage: TreactFrontImage,
-    firstImage: TreactFirstImage,
-    secondImage: TreactSecondImage,
-    thirdImage: TreactThirdImage,
-  },
-  {
-    title: "React Ecommerce",
-    type: "Web App",
-    description:
-    "Primarily using React, this project seamlessly integrates with an external API to fetch a diverse collection of books, providing users with an engaging and interactive experience. One of the highlights of this project is the implementation of lazy loading, ensuring optimal performance by loading data from the API only when needed. Additionally, the project boasts a user-friendly cart feature, allowing visitors to add their preferred books to a virtual cart and proceed.",
-    liveLink: "library-react-2au97smjc-haroonhakimi.vercel.app",
-    githubLink: "https://github.com/HaroonHakimi/Library-React",
-    coverImage: EcommerceCover,
-    topImage: EcommerceFrontImage,
-    firstImage: EcommerceFirstImage,
-    secondImage: EcommerceSecondImage,
-    thirdImage: EcommerceThirdImage,
-  },
+  // {
+  //   title: "Treact",
+  //   type: "Web App",
+  //   description:
+  //     "Building & Construction needed a better faster, less labor intensive way of providing advice to people on site. Feel created a choose your own adventure style scenario based app which allows people to quickly navigate through real life scenarios in order to get workplace rights and responsibilities advice on a number of topics, instantly.",
+  //   liveLink: "https://haroonhakimi.github.io/Week-2-Final-Project/",
+  //   githubLink: "https://github.com/HaroonHakimi/Week-2-Final-Project",
+  //   coverImage: TreactCoverImage,
+  //   topImage: TreactFrontImage,
+  //   firstImage: TreactFirstImage,
+  //   secondImage: TreactSecondImage,
+  //   thirdImage: TreactThirdImage,
+  // },
+  // {
+  //   title: "React Ecommerce",
+  //   type: "Web App",
+  //   description:
+  //   "Primarily using React, this project seamlessly integrates with an external API to fetch a diverse collection of books, providing users with an engaging and interactive experience. One of the highlights of this project is the implementation of lazy loading, ensuring optimal performance by loading data from the API only when needed. Additionally, the project boasts a user-friendly cart feature, allowing visitors to add their preferred books to a virtual cart and proceed.",
+  //   liveLink: "library-react-2au97smjc-haroonhakimi.vercel.app",
+  //   githubLink: "https://github.com/HaroonHakimi/Library-React",
+  //   coverImage: EcommerceCover,
+  //   topImage: EcommerceFrontImage,
+  //   firstImage: EcommerceFirstImage,
+  //   secondImage: EcommerceSecondImage,
+  //   thirdImage: EcommerceThirdImage,
+  // },
 ];
 
 export default projectsConfig;
