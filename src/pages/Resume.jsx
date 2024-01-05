@@ -45,7 +45,7 @@ const Resume = () => {
                 <AiFillLinkedin />
                 <a
                   className="resume__link"
-                  href="https://www.linkedin.com/in/haroon-hakimi-2779bb266/"
+                  href="https://www.linkedin.com/in/haroonhakimi"
                   target="_blank"
                 >
                   Linkedin

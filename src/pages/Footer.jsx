@@ -17,7 +17,7 @@ const Footer = () => {
           <a target="_blank" href="https://github.com/HaroonHakimi">Github</a>
         </div>
         <div>
-          <a target="_blank" href="https://www.linkedin.com/in/haroon-hakimi-2779bb266/">LinkedIn</a>
+          <a target="_blank" href="https://www.linkedin.com/in/haroonhakimi">LinkedIn</a>
         </div>
         <div>
           <a target="_blank" href="mailto:haroonhakimi2005@gmail.com">Email</a>

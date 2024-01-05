@@ -115,7 +115,7 @@ export default function Landing() {
           <a target="_blank" rel="no-refferer" href="https://github.com/HaroonHakimi">
             <img src={gitHubIcon} alt="gitHubIcon" />
           </a>
-          <a target="_blank" rel="no-refferer" href="https://www.linkedin.com/in/haroon-hakimi-2779bb266/">
+          <a target="_blank" rel="no-refferer" href="https://www.linkedin.com/in/haroonhakimi">
             <img src={linkedinIcon} alt="linkedinIcon" />
           </a>
           <a target="_blank" rel="no-refferer" href={MyResume}>
